@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* navbar */
+#nav{
+    background-color: rgba(0, 100, 0, 0.072);
+    height: 10%;
+}
+.nav{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Whisper', cursive;
+}
+#logo:hover{
+    background-color: rgba(0, 100, 0, 0.157);
+    border-radius: 5rem;
+}
+#dropdown{
+    margin-top: 10%;
+}
+#dropdown:hover{
+    background-color: rgba(0, 100, 0, 0.157);
+}
+.dropdown-item{
+    padding: 10px;
+    color: darkgreen;
+}
+#d-btn{
+    padding: 5% 37%;
+    margin: 5px;
+}
+#logof{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Whisper', cursive;
+}
